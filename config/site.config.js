@@ -38,8 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
-    '© 2022-2023 <a href="https://www.hoi4bbs.tk" target="_blank" rel="noopener noreferrer">钢铁雄心4中文论坛-战犯茶馆论坛-HOI4BBS</a> All Rights Reserved.',
+    'Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.<br/>© 2022-2023 <a href="https://www.hoi4bbs.tk" target="_blank" rel="noopener noreferrer">钢铁雄心4中文论坛-战犯茶馆论坛-HOI4BBS</a> All Rights Reserved.',
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
